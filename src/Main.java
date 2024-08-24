@@ -11,6 +11,8 @@ public class Main {
 
         for (int i = 0; i < 5; i++) {
             Methods.show();
+
+            System.out.println("hello");
         }
     }
 
