@@ -13,7 +13,7 @@ public class Main {
             Methods.show();
         }
         for (int i = 0; i < 10; i++) {
-            System.out.println("ZO'R");
+            System.out.println("ZO'r");
         }
     }
 
