@@ -15,8 +15,11 @@ public class Main {
             System.out.println("hello");
         }
         for (int i = 0; i < 10; i++) {
-            System.out.println("ZO'R");
+            System.out.println("ZO'R ");
         }
+
+
+        System.out.println("I SH L A D I !!!");
     }
 
 }
