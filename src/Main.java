@@ -18,6 +18,7 @@ public class Main {
             System.out.println("ZO'R ");
         }
 
+        System.out.println("justbekabdullokh");
 
         System.out.println("I SH L A D I !!!");
     }
