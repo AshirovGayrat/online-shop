@@ -20,7 +20,7 @@ public class Main {
 
         System.out.println("justbekabdullokh");
 
-        System.out.println("I SH L A D I !!!");
+        System.out.println("THE_ZoZo");
     }
 
 }
